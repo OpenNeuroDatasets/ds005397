@@ -9,7 +9,7 @@
         "Klaus Gramann"
     ],
     "BIDSVersion": "1.6",
-    "DatasetDOI": "doi:10.18112/openneuro.ds005397.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005397.v1.0.1",
     "DatasetType": "raw",
     "License": "CC0",
     "Name": "Affordances of stairs",
