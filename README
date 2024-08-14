@@ -1,6 +1,6 @@
 An EEG dataset and behavioural response data for a task that required participants to view images of scenes and rate their aesthetic properties (beauty, complexity, interestingness), or rate their appropriateness for either a reading activity, or a social activity. 
 
-In the .bidsignore folder, you can find the behavioural data already extracted from the EEG events for convenience.
+You can also find the behavioural data already extracted from the EEG events for convenience.
 
 For detailed information about the methods and an analysis of the data please see the article: CURRENTLY IN REVIEW
 
